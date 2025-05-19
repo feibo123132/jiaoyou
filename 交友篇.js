@@ -14,7 +14,7 @@ const pageData = {
                 title: "时逢五一，嬉戏于园博园",
                 date: "2025-05-02",
                 summary: "茉莉沁心脾，水豚憨趣，园博留影惹人喜",
-                image: "交友篇-images/3、园博园.jpg",
+                image: "交友篇-images/my_photo_3.jpg",
                 backgroundImage: "交友篇-images/背景3、园博园留影.jpg",
                 link: "交友篇.html?page=wuyi" // 主HTML文件名已更新
             },
@@ -22,7 +22,7 @@ const pageData = {
                 title: "花开后，你便来",
                 date: "2025-04-11",
                 summary: "突发！安哥生日宴，肖哥脱单传闻引爆全场，众人：速速细说！",
-                image: "交友篇-images/2、肖郎脱单.jpg",
+                image: "交友篇-images/my_photo_2.jpg",
                 backgroundImage: "交友篇-images/背景2.jpg",
                 link: "交友篇.html?page=birthday" // 主HTML文件名已更新
             },
