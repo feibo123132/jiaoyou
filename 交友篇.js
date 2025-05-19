@@ -3,9 +3,9 @@ const pageData = {
     "home": {
         titleBanner: "如约而至 乘兴而归",
         carouselImages: [//放图片耗费了40min!!！😭
-            "交友篇-images/my_photo_3.jpg",
             "交友篇-images/my_photo_2.jpg",
-            "交友篇-images/my_photo_1.jpg"
+            "交友篇-images/my_photo_1.jpg",
+            "交友篇-images/my_photo_3.jpg"
         ],
         contentListTitle: "最新活动记录",
         contentListIcon: "fa-bullhorn", // Font Awesome icon class
