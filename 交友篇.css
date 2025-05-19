@@ -1,0 +1,26 @@
+/* 交友篇.css */
+
+/* 现在这个文件主要用于存放纯粹的、浏览器可以直接解析的 CSS 规则，
+   或者那些不依赖于 HTML 内联 tailwind.config 中自定义 token 的 @apply 规则
+   (例如，只 @apply 标准的 Tailwind 功能类，如 @apply text-center font-bold;)。
+
+   所有 @tailwind base/components/utilities; 指令
+   以及依赖于 tailwind.config 自定义颜色、字体等的 @apply 规则
+   都已移回 交友篇.html 文件中的 <style type="text/tailwindcss"> 块内，
+   以便 Tailwind CDN 脚本能够正确处理它们。
+*/
+
+/* 示例：可以放一些不依赖 Tailwind JIT 的全局样式 */
+/*
+body {
+    line-height: 1.6; 
+}
+*/
+
+/* 如果您有一些之前在 @layer components 中定义的、
+   只使用了标准 Tailwind 类的组件，理论上可以放在这里，
+   但需要确保 HTML 中的 Tailwind CDN 脚本能正确处理它们
+   （通常 CDN 脚本主要扫描 HTML 中的类）。
+   最稳妥的方式是将所有 Tailwind 驱动的样式放在 HTML 的
+   <style type="text/tailwindcss"> 块中。
+*/
