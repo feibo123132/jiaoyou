@@ -13,25 +13,25 @@ const pageData = {
             {
                 title: "时逢五一，嬉戏于园博园",
                 date: "2025-05-02",
-                summary: "利民，水派灵感，国粹交融，人文荟萃，五一出游",
-                image: "https://placehold.co/400x300/7f8c8d/ffffff?text=园博园活动&font=sans",
-                backgroundImage: "https://placehold.co/1200x300/bdc3c7/ffffff?text=模糊背景1&font=sans&blur=1",
+                summary: "茉莉沁心脾，水豚憨趣，园博留影惹人喜",
+                image: "交友篇-images/3、园博园.jpg",
+                backgroundImage: "交友篇-images/背景3、园博园留影.jpg",
                 link: "交友篇.html?page=wuyi" // 主HTML文件名已更新
             },
             {
-                title: "花开了，你来了",
+                title: "花开后，你便来",
                 date: "2025-04-11",
-                summary: "突发！XX生日，传闻引爆全场，众人：速来围观！",
-                image: "https://placehold.co/400x300/9b59b6/ffffff?text=生日派对&font=sans",
-                backgroundImage: "https://placehold.co/1200x300/8e44ad/ffffff?text=模糊背景2&font=sans&blur=1",
+                summary: "突发！安哥生日宴，肖哥脱单传闻引爆全场，众人：速速细说！",
+                image: "交友篇-images/2、肖郎脱单.jpg",
+                backgroundImage: "交友篇-images/背景2.jpg",
                 link: "交友篇.html?page=birthday" // 主HTML文件名已更新
             },
             {
                 title: "龙、肖二君初见于青秀",
                 date: "2025-03-22",
-                summary: "结伴出游，畅谈天地，不亦乐乎。",
-                image: "https://placehold.co/400x300/1abc9c/ffffff?text=青秀山初见&font=sans",
-                backgroundImage: "https://placehold.co/1200x300/16a085/ffffff?text=模糊背景3&font=sans&blur=1",
+                summary: "值君姊生辰 ，龙、肖二君始见于青秀，盛事也🎉！然肖君终日倦怠，哈欠连连，所为何故？",
+                image: "交友篇-images/1、龙场悟道.jpg",
+                backgroundImage: "交友篇-images/背景1.jpg",
                 link: "交友篇.html?page=longxiao" // 主HTML文件名已更新
             }
         ]
